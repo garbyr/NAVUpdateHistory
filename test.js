@@ -1,5 +1,5 @@
 // Our Lambda function fle is required 
-var index = require('./updateNAV.js');
+var index = require('./NAVUpdateHistory.js');
 
 // The Lambda context "done" function is called when complete with/without error
 var context = {
